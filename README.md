@@ -24,6 +24,9 @@ CNN experiments on the MNIST dataset comparing data augmentation, learning rate 
 ### 🏃 [Agile Project](./AgileProject)
 A full-stack web application built for Peers — a real-time voting and scoring platform for live events. Developed over four weeks using a Google Design Sprint and three Scrum sprints, with an AI-assisted event setup flow powered by Google Gemini.
 
+### 💻 [Software Design](./SoftwareDesign)
+A console-based game tracker called **CoverBox** built in C# with SQLite. The project focuses on clean architecture across three layers (UI → Business Logic → Data Access) and applies key software design principles including SOLID, Repository pattern, Facade, and Dependency Injection. Includes refactoring work and NUnit automated tests.
+
 ---
 
 ## 📚 Other Subjects Completed
@@ -33,7 +36,6 @@ These are subjects I completed during my studies but have not uploaded work for 
 | Subject | Description |
 |---------|-------------|
 | Research Method | Academic research methodology, study design, and scientific writing |
-| Software Design | Principles of software architecture, design patterns, and system modeling |
 | IT Project Management | Project planning, risk management, and delivery in IT contexts |
 | Data Structures & Algorithms | Core algorithms, complexity analysis, and data structure implementation |
 | Advanced Python | Advanced programming concepts, performance optimization, and software engineering practices in Python |
