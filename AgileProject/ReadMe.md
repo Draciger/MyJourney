@@ -14,9 +14,6 @@ Make it effortless for event planners to go from "I want to create an event" to 
 
 A full-stack web application that lets event organizers create, configure, and manage events with three distinct setup paths.
 
-**Live demo:** https://hostedagent-alpha.vercel.app/
-*(Note: backend may take ~1 minute to wake up on first load)*
-
 ### Setup Options
 
 **AI-Assisted Setup** — A chat-based flow powered by Google Gemini. The user describes their event in natural language and the AI extracts details such as name, venue, date, and scoring format, populating a live checklist. The user can review and edit all suggested values before saving.
