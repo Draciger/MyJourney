@@ -1,4 +1,5 @@
-# PGR304 – Energy Consumption Forecasting
+# PGR304 – Predictive Analytics
+# Energy Consumption Forecasting
 
 A Jupyter Notebook project analyzing and forecasting electricity load using time series models. The dataset contains hourly observations of energy load alongside weather and market variables, and the goal is to predict future power consumption using VAR and ARIMA models.
 
