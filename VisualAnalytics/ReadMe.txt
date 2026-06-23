@@ -1,4 +1,4 @@
-# PRG110 – Visual Analytics
+#PRG110 – Visual Analytics
 
 ---
 
